@@ -1,0 +1,9 @@
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.deps.json
+D:\Laboratoare .Net\Laborator4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.dll
+D:\Laboratoare .Net\Laborator4\lab4\lab4\bin\Debug\netcoreapp2.2\lab4.pdb
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.dll
+D:\Laboratoare .Net\Laborator4\lab4\lab4\obj\Debug\netcoreapp2.2\lab4.pdb

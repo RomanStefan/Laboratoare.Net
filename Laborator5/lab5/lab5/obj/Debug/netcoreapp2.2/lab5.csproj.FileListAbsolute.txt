@@ -1,0 +1,9 @@
+D:\Laboratoare .Net\Laborator5\lab5\lab5\bin\Debug\netcoreapp2.2\lab5.deps.json
+D:\Laboratoare .Net\Laborator5\lab5\lab5\bin\Debug\netcoreapp2.2\lab5.dll
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator5\lab5\lab5\bin\Debug\netcoreapp2.2\lab5.pdb
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.dll
+D:\Laboratoare .Net\Laborator5\lab5\lab5\obj\Debug\netcoreapp2.2\lab5.pdb

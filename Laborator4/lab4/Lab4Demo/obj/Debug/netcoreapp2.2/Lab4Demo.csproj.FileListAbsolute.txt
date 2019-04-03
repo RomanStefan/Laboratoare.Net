@@ -1,0 +1,14 @@
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\Lab4Demo.deps.json
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\Lab4Demo.runtimeconfig.json
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\Lab4Demo.runtimeconfig.dev.json
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\Lab4Demo.dll
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\Lab4Demo.pdb
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\lab4.dll
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\bin\Debug\netcoreapp2.2\lab4.pdb
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.csproj.CopyComplete
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.dll
+D:\Laboratoare .Net\Laborator4\lab4\Lab4Demo\obj\Debug\netcoreapp2.2\Lab4Demo.pdb

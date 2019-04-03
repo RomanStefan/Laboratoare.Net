@@ -1,0 +1,9 @@
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netcoreapp2.1\Products.deps.json
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netcoreapp2.1\Products.dll
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netcoreapp2.1\Products.pdb
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.dll
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netcoreapp2.1\Products.pdb

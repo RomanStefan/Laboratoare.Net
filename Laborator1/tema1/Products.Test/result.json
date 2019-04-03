@@ -1,0 +1,137 @@
+{
+  "D:\\Laboratoare .Net\\Laborator1\\tema1\\Products.Test\\bin\\Debug\\netcoreapp2.1\\Products.dll": {
+    "D:\\Laboratoare .Net\\Laborator1\\tema1\\Products\\Products.cs": {
+      "Products.Product": {
+        "System.Guid Products.Product::get_Id()": {
+          "Lines": {
+            "11": 1
+          },
+          "Branches": []
+        },
+        "System.String Products.Product::get_Name()": {
+          "Lines": {
+            "13": 1
+          },
+          "Branches": []
+        },
+        "System.String Products.Product::get_Description()": {
+          "Lines": {
+            "15": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime Products.Product::get_StartDate()": {
+          "Lines": {
+            "17": 1
+          },
+          "Branches": []
+        },
+        "System.DateTime Products.Product::get_EndDate()": {
+          "Lines": {
+            "19": 1
+          },
+          "Branches": []
+        },
+        "System.Double Products.Product::get_Price()": {
+          "Lines": {
+            "21": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 Products.Product::get_VAT()": {
+          "Lines": {
+            "23": 2
+          },
+          "Branches": []
+        },
+        "System.Boolean Products.Product::IsValid()": {
+          "Lines": {
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        },
+        "System.Double Products.Product::ComputeVAT()": {
+          "Lines": {
+            "31": 1,
+            "32": 1,
+            "33": 1
+          },
+          "Branches": []
+        },
+        "Products.Product Products.Product::Create(System.String,System.String,System.DateTime,System.DateTime,System.Double,System.Int32)": {
+          "Lines": {
+            "36": 1,
+            "38": 1,
+            "40": 1,
+            "41": 1,
+            "42": 1,
+            "43": 1,
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1,
+            "48": 1,
+            "49": 1,
+            "50": 1
+          },
+          "Branches": []
+        },
+        "System.Void Products.Product::CheckParameters(System.String,System.String)": {
+          "Lines": {
+            "53": 1,
+            "55": 1,
+            "56": 0,
+            "57": 0,
+            "60": 1,
+            "61": 0,
+            "62": 0,
+            "64": 1
+          },
+          "Branches": [
+            {
+              "Line": 55,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 55,
+              "Offset": 9,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 60,
+              "Offset": 26,
+              "EndOffset": 28,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 26,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void Products.Product::.ctor()": {
+          "Lines": {
+            "7": 2,
+            "9": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

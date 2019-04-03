@@ -1,0 +1,17 @@
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.Test.deps.json
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.Test.runtimeconfig.json
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.Test.runtimeconfig.dev.json
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.Test.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.Test.pdb
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\bin\Debug\netcoreapp2.1\BookManagement.pdb
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.csproj.CopyComplete
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement.Test\obj\Debug\netcoreapp2.1\BookManagement.Test.pdb

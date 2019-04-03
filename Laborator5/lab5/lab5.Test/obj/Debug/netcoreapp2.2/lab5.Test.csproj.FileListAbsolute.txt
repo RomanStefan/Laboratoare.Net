@@ -1,0 +1,14 @@
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.Test.deps.json
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.Test.runtimeconfig.json
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.Test.runtimeconfig.dev.json
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.Test.dll
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.Test.pdb
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.dll
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\bin\Debug\netcoreapp2.2\lab5.pdb
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.csproj.CopyComplete
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.dll
+D:\Laboratoare .Net\Laborator5\lab5\lab5.Test\obj\Debug\netcoreapp2.2\lab5.Test.pdb

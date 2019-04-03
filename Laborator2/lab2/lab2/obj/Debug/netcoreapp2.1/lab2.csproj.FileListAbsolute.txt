@@ -1,0 +1,14 @@
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.deps.json
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.json
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.runtimeconfig.dev.json
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.dll
+D:\Laboratoare .Net\Laborator2\lab2\lab2\bin\Debug\netcoreapp2.1\lab2.pdb
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.dll
+D:\Laboratoare .Net\Laborator2\lab2\lab2\obj\Debug\netcoreapp2.1\lab2.pdb

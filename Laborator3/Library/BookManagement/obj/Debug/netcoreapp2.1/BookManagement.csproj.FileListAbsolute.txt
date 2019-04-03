@@ -1,0 +1,9 @@
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\bin\Debug\netcoreapp2.1\BookManagement.deps.json
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\bin\Debug\netcoreapp2.1\BookManagement.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\bin\Debug\netcoreapp2.1\BookManagement.pdb
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.dll
+D:\Laboratoare .Net\Laborator3\Library\BookManagement\obj\Debug\netcoreapp2.1\BookManagement.pdb

@@ -1,0 +1,9 @@
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.csprojAssemblyReference.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.csproj.CoreCompileInputs.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.AssemblyInfoInputs.cache
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.AssemblyInfo.cs
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netstandard2.0\Products.deps.json
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netstandard2.0\Products.dll
+D:\Laboratoare .Net\Laborator1\tema1\Products\bin\Debug\netstandard2.0\Products.pdb
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.dll
+D:\Laboratoare .Net\Laborator1\tema1\Products\obj\Debug\netstandard2.0\Products.pdb
