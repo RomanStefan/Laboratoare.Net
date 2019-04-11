@@ -3492,11 +3492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5.Test\\lab5.Test.csproj",
+      "projectUniqueName": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5.Test\\lab5.Test.csproj",
       "projectName": "lab5.Test",
-      "projectPath": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5.Test\\lab5.Test.csproj",
+      "projectPath": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5.Test\\lab5.Test.csproj",
       "packagesPath": "C:\\Users\\stefanro\\.nuget\\packages\\",
-      "outputPath": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5.Test\\obj\\",
+      "outputPath": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3515,8 +3515,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5\\lab5.csproj": {
-              "projectPath": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5\\lab5.csproj"
+            "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5\\lab5.csproj": {
+              "projectPath": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5\\lab5.csproj"
             }
           }
         }

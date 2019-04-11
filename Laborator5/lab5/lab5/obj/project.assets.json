@@ -3474,11 +3474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5\\lab5.csproj",
+      "projectUniqueName": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5\\lab5.csproj",
       "projectName": "lab5",
-      "projectPath": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5\\lab5.csproj",
+      "projectPath": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5\\lab5.csproj",
       "packagesPath": "C:\\Users\\stefanro\\.nuget\\packages\\",
-      "outputPath": "D:\\Laboratoare .Net\\Laborator5\\lab5\\lab5\\obj\\",
+      "outputPath": "D:\\Laboratoare.Net\\Laborator5\\lab5\\lab5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
